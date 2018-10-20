@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/unit_tests.dir/test/src/runtest.cpp.o  -o unit_tests -ltest/src/cpp/TestXMLParser.cpp -ltest/src/cpp/TestStringMethods.cpp -ltest/src/cpp/TestXMLWriter.cpp 
