@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Test_Work"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Work">
+				<Option output="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Test_Work" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/cxxtest"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test_Work"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Work/fast">
+				<Option output="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Test_Work" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/cxxtest"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test_Work/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_test">
+				<Option output="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/unit_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/cxxtest"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 unit_test"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_test/fast">
+				<Option output="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/unit_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/cxxtest"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 unit_test/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Unit_Tests">
+				<Option output="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Unit_Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/cxxtest"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 Unit_Tests"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Unit_Tests/fast">
+				<Option output="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Unit_Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/cxxtest"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 Unit_Tests/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/cpp/XMLParser.cpp">
+			<Option target="Test_Work"/>
+			<Option target="Unit_Tests"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/cpp/XMLWriter.cpp">
+			<Option target="Test_Work"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/cpp/string_methods.cpp">
+			<Option target="Test_Work"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/headers/XML.h">
+			<Option target="Test_Work"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/headers/XMLParser.h">
+			<Option target="Test_Work"/>
+			<Option target="Unit_Tests"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/headers/XMLWriter.h">
+			<Option target="Test_Work"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/headers/string_methods.h">
+			<Option target="Test_Work"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/src/main.cpp">
+			<Option target="Test_Work"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/test/TestXMLParser.cpp">
+			<Option target="Unit_Tests"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/test/TestXMLParser.h">
+			<Option target="unit_test"/>
+			<Option target="Unit_Tests"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/test/runtest.cpp">
+			<Option target="unit_test"/>
+			<Option target="Unit_Tests"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/test/runtest.cpp.rule">
+			<Option target="unit_test"/>
+			<Option target="Unit_Tests"/>
+		</Unit>
+		<Unit filename="/home/yuriy/Projects/CLionProjects/Test_Task/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
