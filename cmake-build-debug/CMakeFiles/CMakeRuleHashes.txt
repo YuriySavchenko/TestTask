@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-b2b476722bab02c8278588c4c564e105 ../test/src/runtest.cpp

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/tests.dir/test/runtest.cpp.o  -o tests -ltest/TestXMLParser.cpp 
