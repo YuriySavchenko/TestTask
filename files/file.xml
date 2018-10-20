@@ -1,0 +1,28 @@
+<root>
+    <intervals>
+        <interval>
+            <low> 100 </low>
+            <high> 200</high>
+        </interval>
+        <interval>
+            <low> 500</low>
+            <high> 888</high>
+        </interval>
+        <interval>
+            <low> 100 </low>
+            <high> 400</high>
+        </interval>
+    </intervals>
+    <ranges>
+        <interval>
+            <low> 200</low>
+            <high> 300</high>
+        </interval>
+    </ranges>
+    <diapazons>
+        <interval>
+            <low> 400</low>
+            <high> 500</high>
+        </interval>
+    </diapazons>
+</root>
