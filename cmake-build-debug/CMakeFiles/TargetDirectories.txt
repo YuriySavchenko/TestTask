@@ -1,6 +1,0 @@
-/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/CMakeFiles/Unit_Tests.dir
-/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/CMakeFiles/Test_Task.dir
-/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/CMakeFiles/unit_tests.dir
-/home/yuriy/Projects/CLionProjects/Test_Task/cmake-build-debug/CMakeFiles/test.dir

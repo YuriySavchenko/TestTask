@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Test_Task.dir/src/main.cpp.o CMakeFiles/Test_Task.dir/src/cpp/XMLParser.cpp.o CMakeFiles/Test_Task.dir/src/cpp/XMLWriter.cpp.o CMakeFiles/Test_Task.dir/src/cpp/string_methods.cpp.o  -o Test_Task -lpthread 
